@@ -1,2 +1,4 @@
 // add solution here
-const theBeatlesPlay = ['musicians', 'instruments']
+const theBeatlesPlay = [] {
+  return ['musicians', 'instruments']
+}
